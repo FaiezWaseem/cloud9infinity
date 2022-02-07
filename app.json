@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "cloud9infinity",
+    "slug": "snack-a8113481-d642-4910-9b17-85bbb75ba9f7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.cloud9.infiniy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
