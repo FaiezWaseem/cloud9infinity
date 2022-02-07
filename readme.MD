@@ -23,24 +23,24 @@
 ## About The Project
 <p align="center">
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/splash.jpg" alt="Logo" width="180" height="300">
+    <img src="./assets/screenshots/splash.jpg" alt="Logo" width="180" height="360">
   </a>
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/home.jpg" alt="Logo" width="180" height="300">
+    <img src="./assets/screenshots/home.jpg" alt="Logo" width="180" height="360">
   </a>
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/home2.jpg" alt="Logo" width="180" height="300">
+    <img src="./assets/screenshots/home2.jpg" alt="Logo" width="180" height="360">
   </a>
   </p>
 <p align="center">
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/userProfile.jpg" alt="Logo" width="180" height="300">
+    <img src="./assets/screenshots/userProfile.jpg" alt="Logo" width="180" height="360">
   </a>
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/editProfile.jpg" alt="Logo" width="180" height="300">
+    <img src="./assets/screenshots/editProfile.jpg" alt="Logo" width="180" height="360">
   </a>
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/upload.jpg" alt="Logo" width="180" height="300">
+    <img src="./assets/screenshots/upload.jpg" alt="Logo" width="180" height="360">
   </a>
   </p>
 
@@ -72,9 +72,7 @@ To get a local copy up and running follow these simple example steps.
 * node
 * npm
 * react native cli
-```sh
-npm install npm@latest -g
-```
+
 
 ### Installation
 
@@ -129,5 +127,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/FaiezWaseem/
 ## Acknowledgements
 
 * [FaiezWaseem/](https://github.com/FaiezWaseem//)
-* []()
 * [ImgShields](https://shields.io/)
