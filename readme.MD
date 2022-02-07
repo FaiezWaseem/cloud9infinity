@@ -21,13 +21,37 @@
 ![Downloads](https://img.shields.io/github/downloads/FaiezWaseem/cloud9infinity/total) ![Contributors](https://img.shields.io/github/contributors/FaiezWaseem/cloud9infinity?color=dark-green) ![Issues](https://img.shields.io/github/issues/FaiezWaseem/cloud9infinity) ![License](https://img.shields.io/github/license/FaiezWaseem/FaiezWaseem/cloud9infinity) 
 
 ## About The Project
+<p align="center">
+  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
+    <img src="./assets/screenshots/splash.jpg" alt="Logo" width="120" height="300">
+  </a>
+  </p>
+<p align="center">
+  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
+    <img src="./assets/screenshots/home.jpg" alt="Logo" width="120" height="300">
+  </a>
+  </p>
+<p align="center">
+  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
+    <img src="./assets/screenshots/home2.jpg" alt="Logo" width="120" height="300">
+  </a>
+  </p>
+<p align="center">
+  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
+    <img src="./assets/screenshots/userProfile.jpg" alt="Logo" width="120" height="300">
+  </a>
+  </p>
+<p align="center">
+  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
+    <img src="./assets/screenshots/editProfile.jpg" alt="Logo" width="120" height="300">
+  </a>
+  </p>
+<p align="center">
+  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
+    <img src="./assets/screenshots/upload.jpg" alt="Logo" width="120" height="300">
+  </a>
+  </p>
 
-![Screen Shot](./assets/screenshots/splash.jpg)
-![Screen Shot](./assets/screenshots/home.jpg)
-![Screen Shot](./assets/screenshots/home2.jpg)
-![Screen Shot](./assets/screenshots/userProfile.jpg)
-![Screen Shot](./assets/screenshots/editProfile.jpg)
-![Screen Shot](./assets/screenshots/upload.jpg)
 
 Hi there ! 🖐 , wellcome to cloud9infinity Repo , cloud9infinity is an opensource React Native Project , which functions as a cloud Storage Manager . It uses Firebase as a Backend and Save Files on Cloud Through free cloud storage website AnonFiles .
 
