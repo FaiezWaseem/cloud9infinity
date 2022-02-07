@@ -23,32 +23,24 @@
 ## About The Project
 <p align="center">
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/splash.jpg" alt="Logo" width="120" height="300">
+    <img src="./assets/screenshots/splash.jpg" alt="Logo" width="180" height="300">
+  </a>
+  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
+    <img src="./assets/screenshots/home.jpg" alt="Logo" width="180" height="300">
+  </a>
+  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
+    <img src="./assets/screenshots/home2.jpg" alt="Logo" width="180" height="300">
   </a>
   </p>
 <p align="center">
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/home.jpg" alt="Logo" width="120" height="300">
+    <img src="./assets/screenshots/userProfile.jpg" alt="Logo" width="180" height="300">
   </a>
-  </p>
-<p align="center">
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/home2.jpg" alt="Logo" width="120" height="300">
+    <img src="./assets/screenshots/editProfile.jpg" alt="Logo" width="180" height="300">
   </a>
-  </p>
-<p align="center">
   <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/userProfile.jpg" alt="Logo" width="120" height="300">
-  </a>
-  </p>
-<p align="center">
-  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/editProfile.jpg" alt="Logo" width="120" height="300">
-  </a>
-  </p>
-<p align="center">
-  <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">
-    <img src="./assets/screenshots/upload.jpg" alt="Logo" width="120" height="300">
+    <img src="./assets/screenshots/upload.jpg" alt="Logo" width="180" height="300">
   </a>
   </p>
 
