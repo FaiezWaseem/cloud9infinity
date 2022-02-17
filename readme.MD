@@ -10,7 +10,9 @@
     An Awesome free cloud storage
     <br/>
     <br/>
-    <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity">View Demo</a>
+    <a href="https://anonfiles.com/V2GdG5G3x8">Download App</a>
+.
+    <a href="http://cloud9infinity.rf.gd/">View in Web</a>
     .
     <a href="https://github.com/FaiezWaseem/FaiezWaseem/cloud9infinity/issues">Report Bug</a>
     .
