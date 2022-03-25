@@ -21,12 +21,15 @@ class database {
     firebase.auth().onAuthStateChanged(callback);
    }
   signIn(email, pass) {
-    const promise = firebase.auth().signInWithEmailAndPassword(email, pass);
-    promise.then((e) => {
-      Alert.alert('Login', 'Login SuccessFull');
-    });
-    promise.catch((e) => {
-      Alert.alert('Error', e.message);
+    const promise = firebase.auth().signInWithEmailAndPassword(email, pass).then(() => {
+      console.log('User signed in ');
+    })
+    .catch(error => {
+      if (error.code === 'auth/operation-not-allowed') {
+        console.log('Enable anonymous in your firebase console.');
+      }
+  
+      console.error(error);
     });
   }
   signOut() {

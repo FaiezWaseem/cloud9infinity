@@ -102,7 +102,7 @@ const Login = props => {
           textStyle={styles.buttonText}
           onPress={()=>{
             if(email != "" || pass != ""){
-            database.signIn(email , pass);
+            database.signIn(email.trim() , pass.trim());
             }
           }}
         /> :
@@ -111,7 +111,7 @@ const Login = props => {
           styleProps={styles.button}
           textStyle={styles.buttonText}
           onPress={()=>{
-        database.signUp(email , pass , (id)=>{ database.fset("user/"+id , {
+        database.signUp(email.trim() , pass.trim() , (id)=>{ database.fset("user/"+id , {
           uid : id,
           createdAt : database.timeStamp(),
           email : email,
